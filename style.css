@@ -1,0 +1,74 @@
+body {
+    font-family: 'Arial', sans-serif;
+    color: #333;
+    background-color: #FBF3D5; /* Main background color */
+}
+
+header {
+    background-color: #EFBC9B; /* Header background color */
+    color: #333;
+    padding: 20px 0;
+    text-align: center;
+}
+
+footer {
+    background-color: #BE7B72; /* Footer background color */
+    color: #333;
+    padding: 20px 0;
+    text-align: center;
+}
+
+nav a {
+    color: #9CAFAA; /* Navbar link color */
+    margin: 0 10px;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+nav a:hover {
+    color: #333;
+}
+
+.content {
+    background-color: #D6DAC8; /* Content background color */
+    padding: 20px;
+    margin: 20px auto;
+    width: 80%;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
+
+.gallery {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+.gallery img {
+    width: 300px;
+    height: 200px;
+    margin: 10px;
+    object-fit: cover;
+    border: 3px solid #9CAFAA; /* Image border color */
+}
+header, footer {
+    background-color: #EFBC9B; /* Header background color */
+    color: #000; /* Text color changed to black */
+    padding: 20px 0;
+    text-align: center;
+}
+
+footer {
+    background-color: #BE7B72; /* Footer background color */
+    color: #000; /* Text color changed to black */
+    padding: 20px 0;
+    text-align: center;
+}
+
+/* Diğer CSS stil kuralları... */
+
+@media (max-width: 768px) {
+    .gallery img {
+        width: 100%;
+    }
+}
