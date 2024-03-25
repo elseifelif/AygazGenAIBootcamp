@@ -19,7 +19,7 @@ footer {
 }
 
 nav a {
-    color: #9CAFAA; /* Navbar link color */
+    color: #333; /* Navbar link color */
     margin: 0 10px;
     text-decoration: none;
     font-weight: bold;
