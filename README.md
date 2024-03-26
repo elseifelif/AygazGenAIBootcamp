@@ -64,5 +64,5 @@ Projenin görsel öğeleri, Playground 2.5 kullanılarak oluşturulmuştur. Her 
 
 ## Kullanılan Teknolojiler
 
-- ChatGPT-4
-- Playground 2.5
+- ChatGPT-4 : https://chat.openai.com
+- Playground 2.5 : https://playground.com
