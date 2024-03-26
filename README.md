@@ -5,7 +5,8 @@ Bu proje, Aygaz GenAI Bootcamp'in "Prompt Mühendisliğine Giriş" programı kap
 ## Proje Hakkında
 
 Bu projede, ChatGPT-4'ün gelişmiş dil işleme yetenekleri kullanılarak web sitesi yapısının temelleri atılmıştır. Projenin geliştirilmesinde ChatGPT-4'ten yararlanılmış, web sitesinin tasarımı ve içeriği bu araç yardımıyla şekillendirilmiştir.
-Ayrıca şu anda okumakta olduğunuz README.md dosyasının içeriğinin hazırlanmasında ChatGPT4'ten destek alınmıştır.
+Ayrıca şu anda okumakta olduğunuz README.md dosyasının içeriğinin hazırlanmasında ChatGPT4'ten destek alınmıştır.  
+Proje sürecinde oluşturulan galeri sitesi bağlantı adresi: https://aygazgenaibootcamp-kdfxu.kinsta.page
 
 ### Promptlar
 Proje geliştirme sürecinde ChatGPT4 ile ilgili promptlara aşağıdaki linkten ulaşabilirsiniz.  
